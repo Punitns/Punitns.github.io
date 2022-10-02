@@ -1,0 +1,1 @@
+alert('Google XSS game completed!');
